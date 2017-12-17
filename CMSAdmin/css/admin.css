@@ -1,0 +1,33 @@
+#wrapper_header {
+	height: 140px;
+}
+#header {
+	height: auto;
+}
+#header_logo {
+	top: 10px;
+	left: 0px;
+}
+#header_link {
+	top: 114px;
+}
+#wrapper_content {
+	width: 1180px;
+	padding: 0px;
+	margin: 0 auto;
+	min-height: 400px;
+	background-color: #FFFFFF;
+}
+#wrapper_content #wrapper_menu_area {
+	width: 200px;
+	float: left;
+	border: none;
+}
+#wrapper_content #content_area {
+	width: 940px;
+	float: left;
+	padding: 0px 20px;
+}
+#wrapper_content #content_area.login-layout {
+	width: 1160px;
+}

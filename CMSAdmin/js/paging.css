@@ -1,0 +1,78 @@
+/********** paging *******/
+.pagingTable{
+	border-style:solid;
+	border-collapse:collapse;		
+	width:800px;
+	border-width:0px;
+}
+
+.pagingText a:link{
+ font:Verdana;
+ color:#000000;
+ font-size:12px; 
+ border: 1px double #999999; 
+ padding:1px; 
+ line-height:30px;
+ text-decoration:none;
+ border-style:dotted;
+ 
+}
+
+.pagingText a:visited{
+ font:Verdana; 
+ color:#000000;
+ font-size:12px; 
+ border: 1px double #999999; 
+ padding:1px; 
+ line-height:30px;
+ text-decoration:none;
+  border-style:dotted;
+}
+
+.pagingText a:hover{
+ font:Verdana; 
+ color:#000000;
+ font-size:12px; 
+ border: 1px double #999999; 
+ padding:1px; 
+ line-height:30px;
+ text-decoration:none;
+ background:#FFD066;
+}
+
+.pagingText a:active{
+ font:Verdana; 
+ color:#000000;
+ font-size:12px; 
+ border: 1px double #999999; 
+ padding:1px; 
+ line-height:30px;
+ text-decoration:none;
+}
+
+.pagingTextTarget{
+ font:Verdana; 
+ color:#000000;
+ font-size:12px;
+ font-weight:bold;
+ border: 1px double #999999; 
+ padding:1px; 
+ line-height:30px;
+ text-decoration:none;
+ background:#FFD066;
+}
+/*************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
